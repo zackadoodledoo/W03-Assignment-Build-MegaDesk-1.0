@@ -1,0 +1,13 @@
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk - ZMSinclair.csproj.AssemblyReference.cache
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk___ZMSinclair.AddQuote.resources
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk___ZMSinclair.MainMenu.resources
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk___ZMSinclair.Properties.Resources.resources
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk___ZMSinclair.SearchQuotes.resources
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk___ZMSinclair.ViewAllQuotes.resources
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk - ZMSinclair.csproj.GenerateResource.cache
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk - ZMSinclair.csproj.CoreCompileInputs.cache
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\bin\Debug\MegaDesk - ZMSinclair.exe.config
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\bin\Debug\MegaDesk - ZMSinclair.exe
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\bin\Debug\MegaDesk - ZMSinclair.pdb
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk - ZMSinclair.exe
+C:\Users\sincl\source\repos\MegaDesk - ZMSinclair\MegaDesk - ZMSinclair\obj\Debug\MegaDesk - ZMSinclair.pdb
